@@ -1,0 +1,19 @@
+
+.small-container{
+    padding : 10px;
+    border-radius: 0.7rem;
+    background: linear-gradient(to top left,rgb(63, 44, 171),rgb(157, 141, 249),rgb(157, 141, 249));
+    box-shadow: 4px 4px 10px 2px rgb(0, 0, 0);
+}
+#heading3{
+    margin-left: 10px;
+    margin-top: 8px;
+    font-size: 1.5rem;
+    color: #fff;
+}
+#para{
+    margin-left: 10px;
+    margin-top: 8px;
+    font-size: 1.2rem;
+    color: #fff;
+}
